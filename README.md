@@ -1,7 +1,7 @@
 # money_bot
 Скрипт для авто выполнения заданий  [@PayViewBot](https://t.me/PayViewBot?start=251040863)
 
-# Первый запуск
+## Первый запуск
 * Запустить бота и зайти на [канал](https://t.me/joinchat/AAAAAE6G_QXc7T1vWF865Q).
 * Установить [pyrogram](https://github.com/pyrogram/pyrogram) `pip install --upgrade pyrogram`
 * Выбрать режим работы в один аккаунт или больше и загрузить нужный файл
@@ -14,3 +14,4 @@
 api_id = 123456
 api_hash = sadoaso21osanosado1
 ```
+#### После этого можно запускать скрипт
