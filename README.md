@@ -3,3 +3,4 @@
 
 # Первый запуск
 * Запустить бота и зайти на [канал](https://t.me/joinchat/AAAAAE6G_QXc7T1vWF865Q).
+* Установить [pyrogram](https://github.com/pyrogram/pyrogram) `pip install --upgrade pyrogram`
