@@ -9,6 +9,8 @@
 * Создать файл `config.ini` в дериктории со скриптом
 * Создать приложение телеграмм по [сылке](https://my.telegram.org/apps)
 * Создать отдел `pyrogram` в файле `config.ini` как в примере ниже
-    [pyrogram]
-    api_id = 123456
-    api_hash = sadoaso21osanosado1
+```
+[pyrogram]
+api_id = 123456
+api_hash = sadoaso21osanosado1
+```
